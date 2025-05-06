@@ -1,0 +1,51 @@
+﻿Diseño de herramienta
+1. ¿Cuál es el objetivo principal que espera lograr con este sistema/software de asistencia?
+ RTA: Gestionar eficientemente la asistencia diaria a eventos educativos.
+
+2. ¿Qué funcionalidades considera indispensables para el correcto funcionamiento del software?
+ RTA: Registro en línea en tiempo real, identificación automática del estudiante y estadísticas gráficas por persona.
+
+3. ¿Desea que el sistema registre automáticamente la hora exacta de entrada o solo verifique si el estudiante llegó a tiempo?
+ RTA: La hora exacta.
+
+4. ¿Cómo se define “llegar tarde”?
+ RTA: Después de 15 minutos de iniciada la clase, según el reglamento.
+
+5. ¿Qué debe pasar si el estudiante no tiene su carnet o el QR no funciona?
+ RTA: Debe poder ingresar con un código alternativo.
+
+6. ¿Cómo prefiere que se envíen las notificaciones?
+ RTA: Por correo electrónico.
+
+7. ¿Quiere que las notificaciones incluyan detalles de fechas y horarios de las ausencias o tardanzas?
+ RTA: Sí, según el reglamento.
+
+8. ¿Las notificaciones deben enviarse de inmediato o al final del día/clase?
+ RTA: De inmediato.
+
+9. ¿Necesita que el software genere reportes de asistencia mensuales o semanales?
+ RTA: Semanales.
+
+10. ¿Desea acceder a un historial de asistencia para cada estudiante?
+ RTA: Sí.
+
+11. ¿Por cuánto tiempo deben almacenarse estos datos?
+ RTA: Por trimestres.
+
+12. ¿Necesita reportes en formato descargable (PDF, Excel) o solo visualizaciones dentro del sistema web?
+ RTA: Descargables en Excel.
+
+13. ¿Debe incluirse un panel de control (dashboard) con estadísticas de asistencia?
+ RTA: Sí.
+
+14. ¿Quiénes tendrán acceso a los reportes: solo el profesor o también los coordinadores?
+ RTA: Solo el instructor.
+
+15. ¿Tiene alguna preferencia en cuanto al diseño o la experiencia de usuario?
+ RTA: Que sea responsive.
+
+16. ¿Se requiere autenticación y autorización de usuarios?
+ RTA: Solo para instructores.
+
+17. ¿Los estudiantes podrán ingresar al software?
+ RTA: No.
